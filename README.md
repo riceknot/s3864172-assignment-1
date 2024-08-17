@@ -1,7 +1,7 @@
 # COSC2759 Assignment 1
 ## Notes App - CI Pipeline
-- Full Name/Names: **FILL IN**
-- Student ID/IDs: **FILL IN**
+- Full Name/Names: **Chu Khai Minh**
+- Student ID/IDs: **s3864172**
 
 ### Guidance (remove this section before final submission)
 
